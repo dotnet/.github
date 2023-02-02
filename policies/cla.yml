@@ -2,6 +2,10 @@ name: Contributor License Agreement Policy
 description: .NET Foundation CLA policy file
 
 resource: repository
+where:
+- |
+  repository.name.equals(".github", StringComparison.InvariantCultureIgnoreCase)
+  
 configuration: 
    cla:
       content: https://raw.githubusercontent.com/dotnet-foundation/.github/main/CLA/dotnetfoundation.yml
