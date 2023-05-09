@@ -1,0 +1,12 @@
+name: Fabric Bot
+description: Description
+
+resource: repository
+where:
+- |
+  repository.name.equals("r9", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("systemweb-adapters", StringComparison.InvariantCultureIgnoreCase)
+
+configuration:
+  activateFabricBot:
+    activate: true
