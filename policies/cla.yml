@@ -7,8 +7,8 @@ configuration:
    cla:
       content: https://raw.githubusercontent.com/dotnet-foundation/.github/main/CLA/dotnetfoundation.yml
       minimalChangeRequired: 
-         files: 1
-         codeLines: 1
+         files: 2
+         codeLines: 16
       bypassUsers:
          - dependabot[bot]
          - greenkeeper[bot]
