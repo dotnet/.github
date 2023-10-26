@@ -13,6 +13,7 @@ configuration:
          - dependabot[bot]
          - greenkeeper[bot]
          - dotnet-maestro[bot]
+         - dotnet-policy-service[bot]
          - dependabot-preview[bot]
          - openapi-sdkautomation[bot]
          - github-actions[bot]
