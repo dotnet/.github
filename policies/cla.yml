@@ -107,3 +107,7 @@ configuration:
          - podman-desktop-bot
          - liurunliang-bot
       autoSignMsftEmployee: true
+      signRepos:
+      - repoName: cla-approvers-intel
+        fileName: approvedUsers.csv
+        companyName: intel
