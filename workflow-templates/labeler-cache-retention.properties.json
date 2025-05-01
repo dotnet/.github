@@ -1,0 +1,6 @@
+{
+    "name": "Labeler: Cache Retention",
+    "description": "Regularly restore the prediction models from cache to prevent cache eviction.",
+    "iconName": "octicon tag",
+    "categories": ["utilities"]
+}
