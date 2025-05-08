@@ -1,3 +1,6 @@
+# Workflow template imported from:
+# https://github.com/dotnet/.github/workflow-templates
+#
 # Regularly restore the prediction models from cache to prevent cache eviction
 name: "Labeler: Cache Retention"
 

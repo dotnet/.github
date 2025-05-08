@@ -1,3 +1,6 @@
+# Workflow template imported from:
+# https://github.com/dotnet/.github/workflow-templates
+#
 # Train the Issues and Pull Requests models for label prediction
 name: "Labeler: Training"
 

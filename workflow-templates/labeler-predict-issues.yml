@@ -1,3 +1,6 @@
+# Workflow template imported from:
+# https://github.com/dotnet/.github/workflow-templates
+#
 # Predict labels for Issues using a trained model
 name: "Labeler: Predict (Issues)"
 
