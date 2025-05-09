@@ -1,0 +1,6 @@
+{
+    "name": "Labeler: Training",
+    "description": "Train the Issues and Pull Requests models for label prediction.",
+    "iconName": "octicon tag",
+    "categories": ["utilities"]
+}

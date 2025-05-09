@@ -1,0 +1,6 @@
+{
+    "name": "Labeler: Predict (Issues)",
+    "description": "Predict labels for Issues using a trained model.",
+    "iconName": "octicon tag",
+    "categories": ["utilities"]
+}
