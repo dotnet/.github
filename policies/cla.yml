@@ -106,6 +106,7 @@ configuration:
          - OhMyGuus-Bot
          - podman-desktop-bot
          - liurunliang-bot
+         - Copilot
       autoSignMsftEmployee: true
       signRepos:
       - repoName: cla-approvers-intel
