@@ -107,6 +107,7 @@ configuration:
          - podman-desktop-bot
          - liurunliang-bot
          - Copilot
+         - dotnet-renovate-bot
       autoSignMsftEmployee: true
       signRepos:
       - repoName: cla-approvers-intel
