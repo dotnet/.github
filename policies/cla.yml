@@ -30,7 +30,7 @@ configuration:
          - CBL-Mariner-Bot
          - pbicvbot
          - acomghbot
-         - azuresdkciprbot
+         - azure-sdk
          - dotnet-corert-bot
          - iotgwbot
          - LordBobbot
