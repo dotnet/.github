@@ -73,6 +73,7 @@ configuration:
          - WorkingRobot
          - azclibot
          - dotnet-docker-bot
+         - net-containers-bot[bot]
          - rnsdkbot
          - jenfoxbot
          - MSLearnBot
