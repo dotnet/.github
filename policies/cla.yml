@@ -44,6 +44,7 @@ configuration:
          - dn-helix-agents-bot
          - wslbot
          - dotnet-bot
+         - dotnet-oneloc-localization[bot]
          - benrobot
          - typescript-bot
          - ansibleazurebot
