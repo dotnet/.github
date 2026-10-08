@@ -110,6 +110,7 @@ configuration:
          - liurunliang-bot
          - Copilot
          - dotnet-renovate-bot
+         - aspnetcore-docs-bot[bot]
       autoSignMsftEmployee: true
       signRepos:
       - repoName: cla-approvers-intel
