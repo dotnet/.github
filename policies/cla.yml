@@ -111,6 +111,7 @@ configuration:
          - Copilot
          - dotnet-renovate-bot
          - aspnetcore-docs-bot[bot]
+         - dotnet-release-bot[bot]
       autoSignMsftEmployee: true
       signRepos:
       - repoName: cla-approvers-intel
